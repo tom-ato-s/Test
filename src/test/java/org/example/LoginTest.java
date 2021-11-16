@@ -1,5 +1,9 @@
 package org.example;
 
+https://habr.com/ru/post/502292/
+//Пишем автотест с использованием Selenium Webdriver, Java 8 и паттерна Page Object
+
+
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.Test;
